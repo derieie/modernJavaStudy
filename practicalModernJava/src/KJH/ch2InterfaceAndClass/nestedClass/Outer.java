@@ -1,4 +1,4 @@
-package ch2InterfaceAndClass.nestedClass;
+package KJH.ch2InterfaceAndClass.nestedClass;
 
 public class Outer {
     static String outerStaticString = "outerStaticString";

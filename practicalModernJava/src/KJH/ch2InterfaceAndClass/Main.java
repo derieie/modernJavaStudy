@@ -1,9 +1,7 @@
-package ch2InterfaceAndClass;
+package KJH.ch2InterfaceAndClass;
 
-import ch2InterfaceAndClass.diamondInherit.Human;
-import ch2InterfaceAndClass.diamondInherit.Warewolf;
-import ch2InterfaceAndClass.diamondInherit.Wolf;
-import ch2InterfaceAndClass.nestedClass.Outer;
+import KJH.ch2InterfaceAndClass.diamondInherit.Warewolf;
+import KJH.ch2InterfaceAndClass.nestedClass.Outer;
 
 public class Main {
     public static void main(String[] args) {

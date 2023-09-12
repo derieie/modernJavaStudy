@@ -1,4 +1,4 @@
-package ch2InterfaceAndClass.diamondInherit;
+package KJH.ch2InterfaceAndClass.diamondInherit;
 
 public interface Human extends Animal {
     default void speak(){
