@@ -1,4 +1,4 @@
-package KJH.ch2InterfaceAndClass.ch3FunctionalInterface.models;
+package KJH.ch3FunctionalInterface.models;
 
 public class PracticeLambda {
     public static void exerciseLambda(){
