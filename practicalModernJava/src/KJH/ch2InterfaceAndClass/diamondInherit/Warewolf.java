@@ -1,4 +1,4 @@
-package ch2InterfaceAndClass.diamondInherit;
+package KJH.ch2InterfaceAndClass.diamondInherit;
 
 public class Warewolf implements Human, Wolf {
     //겹치는 default method를 Override하지 않으면 error 발생
