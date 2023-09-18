@@ -1,4 +1,4 @@
-package models;
+package KJH.ch2InterfaceAndClass.ch3FunctionalInterface.models;
 
 public class PracticeLambda {
     public static void exerciseLambda(){
@@ -18,7 +18,7 @@ public class PracticeLambda {
         System.out.println("subtract : " + subtract.calc(1,9));
         System.out.println("complicated1 : " + getABS.calc(3,9));
         System.out.println("complicated2 : " + getABS.calc(3,-9));
-        System.out.println("addString L " + addString.stringFunc("HELLO", "BYE"));
+        System.out.println("addString : " + addString.stringFunc("HELLO", "BYE"));
 
     }
 }

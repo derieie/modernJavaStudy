@@ -1,4 +1,4 @@
-package models;
+package KJH.ch2InterfaceAndClass.ch3FunctionalInterface.models;
 
 //@FunctionalInterface
 interface FunctionalInterface {
