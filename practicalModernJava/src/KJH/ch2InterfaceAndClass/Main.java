@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         //nested class
         outerInner();
-        inherit();
+        //inherit();
     }
 
     public static void outerInner() {
